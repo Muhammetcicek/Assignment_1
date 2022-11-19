@@ -1,2 +1,2 @@
 print("My first assignment")
-print ("end of assignment")
+print("End of Assignment 1")
